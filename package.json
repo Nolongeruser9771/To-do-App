@@ -1,7 +1,7 @@
 {
   "name": "to-do-list-app",
   "version": "0.1.0",
-  "homepage": "https://nolongeruser9771.github.io/To-do-App",
+  "homepage": "https://nolongeruser9771.github.io/to-do-app",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
