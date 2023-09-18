@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  color: #6c757d;
+  background-color: #fff;
+}
+
+h3 {
+  text-transform: capitalize;
+  text-align: center;
+  margin-bottom: 30px;
+  font-weight: normal;
+  font-size: 2.6rem;
+  letter-spacing: 0.05em;
+  color: #fff;
+}
+
+.modifiedBtn {
+  height: 2rem;
+  padding: 0 0.75rem;
+  border: 1px solid rgba(83, 83, 83, 0.3);
+  border-radius: 3px;
+  background-color:  rgb(248, 248, 248);
+  color: rgb(148, 146, 146);
+  cursor: pointer;
+  transition: all .3s ease;
+}
+
+.modifiedBtn:hover {
+  background-color: #96b5d6;
+  color: white;
+}
+
+.task-container {
+  text-transform: capitalize;
+  height: 2.5rem;
+  border-bottom: 1px solid rgba(255,255,255,.3);
+  padding: 0px 10px 0px 20px;
+  font-size: 18px;
+  display: flex;
+  flex-direction: row;
+  text-align: start;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.task-btn-container {
+  display: inline;
+  text-align: right;
+}
