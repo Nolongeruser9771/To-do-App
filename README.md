@@ -1,7 +1,7 @@
-# Getting Started with Portfolio Project
+# A Simple to-do App
 
-Live demo: https://nolongeruser9771.github.io/my-portfolio/
+Live demo: https://nolongeruser9771.github.io/to-do-app/
 
-## Skills
+## Description
 
-ReactJs, Bootstrap, HTML/CSS
+A simple to-do app to note daily tasks by ReactJs, HTML/CSS
